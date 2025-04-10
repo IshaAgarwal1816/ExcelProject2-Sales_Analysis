@@ -6,6 +6,7 @@ An analysis of the historical data of a company which sells products and ships t
 
 ## Dataset Used
 A historical dataset with 1000,000 rows and 13 columns spanning 8 years. Data is stored in a single table.
+[Click here to download the Excel file](https://1drv.ms/x/c/d03a8bbcbca6a6a5/EWSd8wzwXh5DjqaGo64gEP0Bx7IgiAEKqabqfSrq5Xr8fg?e=BP51ag)
 
 ## Analyses derived from the dataset
 - Analysis of orders shipped within seven days, within one month, and after 30 days of placing the order.
